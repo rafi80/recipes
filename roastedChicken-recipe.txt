@@ -1,0 +1,9 @@
+Ingredients:
+ - chicken
+ - butter
+
+Directions:
+ - wash the chicken
+ - put it in a frying pan
+ - add butter
+ - roast the chicken out of it
